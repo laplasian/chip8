@@ -1,0 +1,11 @@
+# ninja log v6
+3	327	7591815601424735	build.ninja	4d7e30687c4cd19b
+15	140	7591715795344260	CMakeFiles/chip8.dir/src/CPU.c.obj	dadbbb280b145821
+7	692	7591782205888833	CMakeFiles/chip8.dir/main.c.obj	64244fb22b2f9426
+13	590	7591596544391101	CMakeFiles/chip8.dir/src/Sound.c.obj	190eea57521d496b
+28	1180	7590250052334216	CMakeFiles/chip8.dir/src/console.c.obj	dced3438db86d584
+14	695	7591782205954432	CMakeFiles/chip8.dir/src/emulator.c.obj	f294cd68067e0f3a
+32	1139	7590250052367087	CMakeFiles/chip8.dir/src/interface.c.obj	731754e0fbc2076
+140	1149	7591789447216466	chip8.exe	53bdba92ab20710
+7	139	7591789445883169	CMakeFiles/chip8.dir/src/super_chip.c.obj	5756839bf7376f87
+7	121	7591779526916125	CMakeFiles/chip8.dir/resources.rc.obj	1fba344575b0de64

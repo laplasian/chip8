@@ -1,0 +1,3 @@
+C:/Users/user/CLionProjects/chip8/cmake-build-release/CMakeFiles/chip8.dir
+C:/Users/user/CLionProjects/chip8/cmake-build-release/CMakeFiles/edit_cache.dir
+C:/Users/user/CLionProjects/chip8/cmake-build-release/CMakeFiles/rebuild_cache.dir

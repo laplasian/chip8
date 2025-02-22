@@ -1,0 +1,11 @@
+C:\Users\user\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe -G "Visual Studio 17 2022" -S C:\Users\user\CLionProjects\chip8 -B C:\Users\user\CLionProjects\chip8\cmake-build-debug
+CMake Error at CMakeLists.txt:2 (project):
+  Generator
+
+    Visual Studio 17 2022
+
+  could not find any instance of Visual Studio.
+
+
+
+-- Configuring incomplete, errors occurred!
